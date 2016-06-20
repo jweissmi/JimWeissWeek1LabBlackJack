@@ -10,6 +10,9 @@ namespace JimWeissWeek1LabBlackJack
     {
         static void Main(string[] args)
         {
+            //This is a comment.
+
+            //This is another comment.
 
             Console.WriteLine("Do you want to play Blackjack? (y/n)");
             string answer = Console.ReadLine();
